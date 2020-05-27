@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Chapter1" />
+            <option value="$PROJECT_DIR$/Chapter1/CatShow" />
+            <option value="$PROJECT_DIR$/Chapter1/EqualityLibertyFelinity" />
+            <option value="$PROJECT_DIR$/Chapter1/PrintableLibrary" />
+            <option value="$PROJECT_DIR$/Chapter2" />
+            <option value="$PROJECT_DIR$/Chapter2/AddingAllTheThings" />
+            <option value="$PROJECT_DIR$/Chapter2/AllSetsForMonoids" />
+            <option value="$PROJECT_DIR$/Chapter2/TheTruthAboutMonoid" />
+            <option value="$PROJECT_DIR$/Chapter3" />
+            <option value="$PROJECT_DIR$/Chapter3/BranchingOutWithFunctors" />
+            <option value="$PROJECT_DIR$/Chapter3/ShowingOffWithContramap" />
+            <option value="$PROJECT_DIR$/Chapter4" />
+            <option value="$PROJECT_DIR$/Chapter4/BranchOutFurtherWithMonads" />
+            <option value="$PROJECT_DIR$/Chapter4/GettingFuncY" />
+            <option value="$PROJECT_DIR$/Chapter4/HackingOnReader" />
+            <option value="$PROJECT_DIR$/Chapter4/MonadicSecretIdentities" />
+            <option value="$PROJECT_DIR$/Chapter4/PostOrderCalculator" />
+            <option value="$PROJECT_DIR$/Chapter4/SaferFoldingUsingEval" />
+            <option value="$PROJECT_DIR$/Chapter4/ShowYourWorking" />
+            <option value="$PROJECT_DIR$/Chapter5" />
+            <option value="$PROJECT_DIR$/Chapter5/TransformAndRollOut" />
+            <option value="$PROJECT_DIR$/Chapter6" />
+            <option value="$PROJECT_DIR$/Chapter6/FormValidation" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.3.10" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

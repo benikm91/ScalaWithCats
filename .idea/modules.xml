@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddingAllTheThings.Addings All The Things.iml" filepath="$PROJECT_DIR$/.idea/modules/AddingAllTheThings.Addings All The Things.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/All Sets For Monoids.iml" filepath="$PROJECT_DIR$/.idea/modules/All Sets For Monoids.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Branch Out Further With Monads.iml" filepath="$PROJECT_DIR$/.idea/modules/Branch Out Further With Monads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Branching Out With Functors.iml" filepath="$PROJECT_DIR$/.idea/modules/Branching Out With Functors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cat Show.iml" filepath="$PROJECT_DIR$/.idea/modules/Cat Show.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chapter 1.iml" filepath="$PROJECT_DIR$/.idea/modules/Chapter 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chapter 2.iml" filepath="$PROJECT_DIR$/.idea/modules/Chapter 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chapter 3.iml" filepath="$PROJECT_DIR$/.idea/modules/Chapter 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chapter 4.iml" filepath="$PROJECT_DIR$/.idea/modules/Chapter 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chapter 5.iml" filepath="$PROJECT_DIR$/.idea/modules/Chapter 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chapter 6.iml" filepath="$PROJECT_DIR$/.idea/modules/Chapter 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Equality, Liberty, Felinity.iml" filepath="$PROJECT_DIR$/.idea/modules/Equality, Liberty, Felinity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Form Validation.iml" filepath="$PROJECT_DIR$/.idea/modules/Form Validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Getting Func-y.iml" filepath="$PROJECT_DIR$/.idea/modules/Getting Func-y.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hacking On Reader.iml" filepath="$PROJECT_DIR$/.idea/modules/Hacking On Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Monadic Secret Identities.iml" filepath="$PROJECT_DIR$/.idea/modules/Monadic Secret Identities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Post Order Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Post Order Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Printable Library.iml" filepath="$PROJECT_DIR$/.idea/modules/Printable Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Safer Folding using Eval.iml" filepath="$PROJECT_DIR$/.idea/modules/Safer Folding using Eval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scala Cats.iml" filepath="$PROJECT_DIR$/.idea/modules/Scala Cats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scala Cats-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Scala Cats-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Show Your Working.iml" filepath="$PROJECT_DIR$/.idea/modules/Show Your Working.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Showing Off With Contramap.iml" filepath="$PROJECT_DIR$/.idea/modules/Showing Off With Contramap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/The Truth About Monoid.iml" filepath="$PROJECT_DIR$/.idea/modules/The Truth About Monoid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TransformAndRollOut.Transform And Roll Out.iml" filepath="$PROJECT_DIR$/.idea/modules/TransformAndRollOut.Transform And Roll Out.iml" />
+    </modules>
+  </component>
+</project>
