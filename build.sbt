@@ -193,3 +193,27 @@ lazy val chapter6FormValidation = (project in file("./Chapter6/FormValidation"))
     libraryDependencies += "org.typelevel" %% "cats-core" % "2.0.0"
   )
 
+lazy val chapter7ReflectingOnFolds = (project in file("./Chapter7/ReflectingOnFolds"))
+  .settings(
+    name := "Reflecting On Folds",
+    version := "0.1",
+    exerciseSettings,
+    libraryDependencies += "org.typelevel" %% "cats-core" % "2.0.0"
+  )
+
+lazy val chapter7ScafFoldIngOtherMethods = (project in file("./Chapter7/ScafFoldIngOtherMethods"))
+  .settings(
+    name := "Scaf-fold-ing Other Methods",
+    version := "0.1",
+    exerciseSettings,
+    libraryDependencies += "org.typelevel" %% "cats-core" % "2.0.0"
+  )
+
+lazy val chapter7TraversingWithVectors = (project in file("./Chapter7/TraversingWithVectors"))
+  .settings(
+    name := "Traversing With Vectors",
+    version := "0.1",
+    exerciseSettings,
+    libraryDependencies += "org.typelevel" %% "cats-core" % "2.0.0"
+  )
+

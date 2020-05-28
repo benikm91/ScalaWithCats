@@ -31,6 +31,9 @@
             <option value="$PROJECT_DIR$/Chapter5/TransformAndRollOut" />
             <option value="$PROJECT_DIR$/Chapter6" />
             <option value="$PROJECT_DIR$/Chapter6/FormValidation" />
+            <option value="$PROJECT_DIR$/Chapter7/ReflectingOnFolds" />
+            <option value="$PROJECT_DIR$/Chapter7/ScafFoldIngOtherMethods" />
+            <option value="$PROJECT_DIR$/Chapter7/TraversingWithVectors" />
             <option value="$PROJECT_DIR$/project" />
           </set>
         </option>
