@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules=" Felinity, Felinity, Felinity, Felinity, Felinity, Felinity, Felinity, Felinity, Liberty, Liberty, Liberty, Liberty, Liberty, Liberty, Liberty, Liberty,AddingAllTheThings.Addings All The Things,Addings All The Things,All Sets For Monoids,Branch Out Further With Monads,Branching Out With Functors,Cat Show,Chapter 1,Chapter 2,Chapter 3,Chapter 4,Chapter 5,Chapter 6,Equality,Equality,Equality,Equality,Equality,Equality,Equality,Equality,Equality, Liberty, Felinity,Form Validation,Getting Func-y,Hacking On Reader,Monadic Secret Identities,Post Order Calculator,Printable Library,Reflecting On Folds,Safer Folding using Eval,Scaf-fold-ing Other Methods,Scala Cats,Scala Cats - Chapter 1,Show Your Working,Showing Off With Contramap,The Truth About Monoid,Transform And Roll Out,TransformAndRollOut.Transform And Roll Out,Traversing With Vectors,scala cats">
+    <profile name="sbt 1" modules=" Felinity, Felinity, Felinity, Felinity, Felinity, Felinity, Felinity, Felinity, Felinity, Liberty, Liberty, Liberty, Liberty, Liberty, Liberty, Liberty, Liberty, Liberty,Addings All The Things,Equality,Equality,Equality,Equality,Equality,Equality,Equality,Equality,Equality,Scala Cats - Chapter 1,Transform And Roll Out,scala cats">
       <option name="higherKinds" value="true" />
     </profile>
+    <profile name="sbt 2" modules=" Felinity, Liberty,Equality,Testing Asynchronous Code">
+      <option name="higherKinds" value="true" />
+    </profile>
+    <profile name="sbt 3" modules="Abstract Over Type Constructors,AddingAllTheThings.Addings All The Things,All Sets For Monoids,Branch Out Further With Monads,Branching Out With Functors,Cat Show,Chapter 1,Chapter 2,Chapter 3,Chapter 4,Chapter 5,Chapter 6,Equality, Liberty, Felinity,Form Validation,Getting Func-y,Hacking On Reader,Implementing FoldMap,Monadic Secret Identities,Post Order Calculator,Printable Library,Reflecting On Folds,Safer Folding using Eval,Scaf-fold-ing Other Methods,Scala Cats,Show Your Working,Showing Off With Contramap,The Truth About Monoid,TransformAndRollOut.Transform And Roll Out,Traversing With Vectors" />
   </component>
 </project>

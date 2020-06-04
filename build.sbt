@@ -217,3 +217,20 @@ lazy val chapter7TraversingWithVectors = (project in file("./Chapter7/Traversing
     libraryDependencies += "org.typelevel" %% "cats-core" % "2.0.0"
   )
 
+lazy val chapter8AbstractOverTypeConstructors = (project in file("./Chapter8/AbstractOverTypeConstructors"))
+  .settings(
+    name := "Abstract Over Type Constructors",
+    version := "0.1",
+    exerciseSettings,
+    libraryDependencies += "org.typelevel" %% "cats-core" % "2.0.0"
+  )
+
+lazy val chapter9ImplementingFoldMap = (project in file("./Chapter9/ImplementingFoldMap"))
+  .settings(
+    name := "Implementing FoldMap",
+    version := "0.1",
+    exerciseSettings,
+    libraryDependencies += "org.typelevel" %% "cats-core" % "2.0.0"
+  )
+
+

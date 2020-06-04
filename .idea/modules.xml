@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Abstract Over Type Constructors.iml" filepath="$PROJECT_DIR$/.idea/modules/Abstract Over Type Constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddingAllTheThings.Addings All The Things.iml" filepath="$PROJECT_DIR$/.idea/modules/AddingAllTheThings.Addings All The Things.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/All Sets For Monoids.iml" filepath="$PROJECT_DIR$/.idea/modules/All Sets For Monoids.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Branch Out Further With Monads.iml" filepath="$PROJECT_DIR$/.idea/modules/Branch Out Further With Monads.iml" />
@@ -17,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Form Validation.iml" filepath="$PROJECT_DIR$/.idea/modules/Form Validation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Getting Func-y.iml" filepath="$PROJECT_DIR$/.idea/modules/Getting Func-y.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hacking On Reader.iml" filepath="$PROJECT_DIR$/.idea/modules/Hacking On Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Implementing FoldMap.iml" filepath="$PROJECT_DIR$/.idea/modules/Implementing FoldMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Monadic Secret Identities.iml" filepath="$PROJECT_DIR$/.idea/modules/Monadic Secret Identities.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Post Order Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Post Order Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Printable Library.iml" filepath="$PROJECT_DIR$/.idea/modules/Printable Library.iml" />
